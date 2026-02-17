@@ -1,2 +1,3 @@
-# daily-commit-095
-My ninety-fifth daily GitHub activity repository
+
+def count_uppercase(text):
+    return sum(1 for char in text if char.is
